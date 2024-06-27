@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidComposePINViewExample</string>
+    <string name="enter_old_pin">Enter old PIN</string>
+    <string name="enter_new_pin">Enter new PIN</string>
+    <string name="confirm_new_pin">Re-Enter new PIN</string>
+    <string name="please_enter_pin">Please enter PIN</string>
 </resources>
